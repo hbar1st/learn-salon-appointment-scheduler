@@ -70,3 +70,47 @@ psql --username=freecodecamp --dbname=postgres
 touch salon.sh
 chmod +x salon.sh
 pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+__vsc_prompt_cmd_original
+echo " 1 | cut "
+./salon.sh
+./salon.sh
+./salon.sh
+__vsc_prompt_cmd_original
+echo " 1 | cut"
+echo " 1 | cut"
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
